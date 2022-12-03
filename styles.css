@@ -1,0 +1,144 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 100;
+    width: 100;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.section1{
+    background-color: yellow;
+    border-radius: 10%;
+    height: 50px;
+    width: 70px;
+    color: black;
+    text-align: center;
+    line-height: 50px;
+}
+.section2{
+    background-color: orange;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    text-align: center;
+    line-height: 70px;
+}
+.section3{
+    background-color: red;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    text-align: center;
+    line-height: 70px;
+}
+.section4{
+    background-color:pink;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    text-align: center;
+    line-height: 70px;
+}
+.section5{
+    background-color: darkgreen;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    color: black;
+    text-align: center;
+    line-height: 70px;
+}
+
+.nav-div{
+    background-color:lightgrey;
+     height: 50px;
+    width: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.box1{
+    background-color: red;
+    height: 20px;
+    width: 50px;
+    color: balck;
+    border-radius: 5px;
+}
+.box2{
+    background-color: red;
+    height: 20px;
+    width: 50px;
+    color: balck;
+    border-radius: 5px;
+}
+.box3{
+    background-color: red;
+    height: 20px;
+    width: 50px;
+    color: balck;
+    border-radius: 5px;
+}
+.box4{
+    background-color: red;
+    height: 20px;
+    width: 50px;
+    color: balck;
+    border-radius: 5px;
+}
+.box5{
+    background-color: red;
+    height: 20px;
+    width: 50px;
+    color: balck;
+    border-radius: 5px;
+}
+main{
+    background-color: lightgray;
+    height: 300px;
+    width: 100;
+    display: flex;
+    align-items:flex-end;
+    margin-bottom: 10px;
+    
+}
+.footer-div{
+    background-color:lightgrey;
+     height: 50px;
+    width: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.boxx1{
+    background-color: red;
+    border-radius: 20%;
+}
+.boxx2{
+    background-color: red;
+    border-radius: 20%;
+}
+.boxx3{
+    background-color: red;
+    border-radius: 70%;
+}
+.boxx4{
+    background-color: red;
+    border-radius: 20%;
+}
+.boxx5{
+    background-color: red;
+    border-radius: 20%;
+}
+
+
+
